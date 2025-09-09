@@ -3,8 +3,6 @@
 
 > Your personal nutrition buddy on WhatsApp. Log meals via **voice/text**, get instant calorie breakdowns, and track your health with ease!  
 
-![NutriNote Demo](https://i.imgur.com/your-gif-link.gif) <!-- Replace with your GIF link -->
-
 ---
 
 ## 🚀 Introduction  
@@ -136,3 +134,6 @@ ngrok http 5000
 
 ---
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
